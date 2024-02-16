@@ -1,0 +1,5 @@
+## ignored file
+Gemfile.lock
+
+## Ignore bundler config.
+/.bundle
